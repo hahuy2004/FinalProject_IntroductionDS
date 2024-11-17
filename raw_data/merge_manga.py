@@ -2,18 +2,18 @@ import pandas as pd
 
 def merge_csv_files(file_paths, output_file):
     """
-    Ghép nhiều file CSV lại thành một file CSV duy nhất.
+    Ghép nhiều file CSV lại thành một file CSV duy nhất với encoding utf-8-sig.
     
     Args:
         file_paths (list): Danh sách đường dẫn đến các file CSV cần ghép.
         output_file (str): Đường dẫn đến file CSV kết quả.
     """
     # Đọc và ghép các file CSV
-    dfs = [pd.read_csv(file_path) for file_path in file_paths]
+    dfs = [pd.read_csv(file_path, encoding='utf-8-sig') for file_path in file_paths]
     merged_df = pd.concat(dfs, ignore_index=True)
     
     # Lưu file CSV mới
-    merged_df.to_csv(output_file, index=False)
+    merged_df.to_csv(output_file, index=False, encoding='utf-8-sig')
     print(f"Đã ghép {len(file_paths)} file CSV vào file: {output_file}")
 
 # Danh sách các file CSV cần ghép
