@@ -1,2 +1,2 @@
 ### FINAL PROJECT - INTRODUCTION TO DATA SCIENCE
-- Link data collecting and Reference Project: [Link Data](https://docs.google.com/spreadsheets/d/14Rl1IU5Kxwt-y-buBrVeUrNyZwRmEWfy9V6SURoN-3U/edit?fbclid=IwZXh0bgNhZW0CMTEAAR0egoEVJWhxphhfSjp8kitN41SDRc6UV4CGfSaAtEN7RAz78TYNNwBhz38_aem_CKLE3AvXymJo0sTxlkCgFg&gid=0#gid=0)
+- Link Group Working: [Group Working](https://docs.google.com/spreadsheets/d/1hQfAfnTYzPI49zXJ3Qhi1Cc8cTE-MGoR/edit?usp=sharing&ouid=102314169989540342274&rtpof=true&sd=true)
