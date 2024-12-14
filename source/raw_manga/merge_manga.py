@@ -17,10 +17,10 @@ def merge_csv_files(file_paths, output_file):
     print(f"Đã ghép {len(file_paths)} file CSV vào file: {output_file}")
 
 # Danh sách các file CSV cần ghép
-file_paths = ['raw_top_manga/raw_top_manga_1.csv', 'raw_top_manga/raw_top_manga_2.csv', 'raw_top_manga/raw_top_manga_3.csv']
+file_paths = ['raw_data/raw_manga_1.csv', 'raw_data/raw_manga_2.csv', 'raw_data/raw_manga_3.csv', 'raw_data/raw_manga_4.csv']
 
 # Tên file kết quả
-output_file = 'raw_top_manga/raw_top_manga.csv'
+output_file = 'raw_data/raw_manga.csv'
 
 # Gọi hàm
 merge_csv_files(file_paths, output_file)
