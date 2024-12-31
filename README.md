@@ -6,7 +6,7 @@
 |-------|---------------|---------|----------------|
 | 1     | Trần Gia Hào | 22120099 | Thành viên |
 | 2     | Nguyễn Minh Hưng | 22120123 | Thành viên |
-| 3     | Nguyễn Tấn Hưng | 221200126 | Thành viên |
+| 3     | Nguyễn Tấn Hưng | 22120126 | Thành viên |
 | 4     | Hà Đức Huy | 22120133 | Nhóm trưởng |
 | 5     | Trần Duy Khang | 22120153 | Thành viên |
 
