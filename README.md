@@ -2,13 +2,13 @@
 ---
 ## 1. Thông tin nhóm 10
 
-| **STT** | **Họ và tên** | **MSSV** |
-|-------|---------------|---------|
-| 1     | Trần Gia Hào | 22120099 |
-| 2     | Nguyễn Minh Hưng | 22120123 |
-| 3     | Nguyễn Tấn Hưng | 221200126 |
-| 4     | Hà Đức Huy | 22120133 |
-| 5     | Trần Duy Khang | 22120153 |
+| **STT** | **Họ và tên** | **MSSV** | **Vai trò** |
+|-------|---------------|---------|----------------|
+| 1     | Trần Gia Hào | 22120099 | Thành viên |
+| 2     | Nguyễn Minh Hưng | 22120123 | Thành viên |
+| 3     | Nguyễn Tấn Hưng | 221200126 | Thành viên |
+| 4     | Hà Đức Huy | 22120133 | Nhóm trưởng |
+| 5     | Trần Duy Khang | 22120153 | Thành viên |
 
 ---
 ## 2. Tổng quan đề tài
@@ -67,7 +67,6 @@
   - Nhóm cũng tích cực trao đổi trên nhóm chat riêng, cũng như thông qua Github để nắm được tiến độ làm việc của nhau cũng như hiểu biết về phần việc của từng thành viên rõ hơn.
 ---
 
----
 ##  6. Suy nghĩ và đánh giá đồ án:
 - **Những điều học được từ đồ án này:**
   - Học cách thu thập dữ liệu bằng công cụ như requests, BeautifulSoup, Selenium,...
