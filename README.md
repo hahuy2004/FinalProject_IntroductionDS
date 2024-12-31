@@ -48,7 +48,7 @@
 │   │    ├── manga_searching_recommedation_system.ipynb                 <- Notebook Modeling System: Hệ thống Recommendation các bộ truyện.
 │   │    ├── merge_manga.py                                             <- Source code ghép các dữ liệu thành phần để tạo ra dữ liệu raw_manga.csv, hỗ trợ cho thao tác Data Collecting.
 │
-├── CSC14119_CQ22_FinalProject                                          <- Mô tả về đồ án cuối kì NMKHDL.
+├── CSC14119_CQ22_FinalProject.pdf                                      <- Mô tả về đồ án cuối kì NMKHDL.
 |
 ├── Slide.pdf                                                           <- Slide báo cáo cuối kì.
 ```
