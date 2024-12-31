@@ -16,7 +16,7 @@
 - Sự bùng nổ của các nền tảng như `MyAnimeList (MAL)`, `Anime-Planet`, hay các website đọc truyện trực tuyến đã mở ra cơ hội lớn để phân tích dữ liệu và khám phá xu hướng của thị trường màu mỡ này. Các thông tin về thể loại, đánh giá người dùng, số lượng độc giả, và mức độ phổ biến của từng tác phẩm đều là những chỉ số quan trọng giúp hiểu rõ hơn về ngành công nghiệp truyện tranh và tiểu thuyết.
 - Phân tích dữ liệu từ các nguồn này không chỉ giúp chúng ta hiểu sâu sắc hơn về sở thích của độc giả, nghiên cứu văn hóa và xã hội, cũng như dữ đoán xu hướng phát triển các thể loại truyện trong tương lai.
 ---
-## 3. Chi tiết thư hiện
+## 3. Chi tiết thực hiện
 - **Chủ đề:** Các thể loại truyện (Manga, Manhua, Manhwa, Light Novel, ...)
 - **Nơi thu thập:** MyAnimeList
 - **Tổng quan thực hiện:** Nhóm thực hiện các bước sau:
